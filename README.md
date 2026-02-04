@@ -150,9 +150,8 @@ Me chamo Lucas de Souza, sou natural do Rio de Janeiro e estudante de 4º perío
     style="padding-right: 10px;"  
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
- <br>
- <br>
 
+<br><br>
 <details align="center">
 
   <summary style="padding-top: 20px; margin: 10px 0;"><strong>🐍 Clique aqui </strong></summary>
