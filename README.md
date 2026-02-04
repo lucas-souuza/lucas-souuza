@@ -27,7 +27,7 @@ Me chamo Lucas de Souza, sou natural do Rio de Janeiro e estudante de 4º perío
             src="https://custom-icon-badges.demolab.com/github/followers/lucas-souuza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/lucas-martins22">
+    <a href="https://www.linkedin.com/in/lucas-martins22">
         <img 
             alt="LinkedIn" 
             title="Me siga no Linkedin!" 
