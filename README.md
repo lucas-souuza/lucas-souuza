@@ -7,7 +7,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Lucas de Souza, sou natural do Rio de Janeiro e estudante de 4º período em Sistemas de informação na UNIRIO. Sou apaixonado por tecnologia e sou desenvolvedor full-stack e já fiz diversas aplicações com Java, C/C++, HTML, SQL, dentre outras stacks. Em busca de estágio.
+Me chamo Lucas de Souza, sou natural do Rio de Janeiro e estudante de 4º período em Sistemas de informação na UNIRIO. Sou apaixonado por tecnologia e sou estagiário focado em IA e desenvolvedor full-stack. Já realizei ao longo da minha trajetória diversas aplicações com Node, Java, C/C++, HTML, SQL, dentre outras stacks.
 
 
 ## Conect with me!
@@ -47,6 +47,23 @@ Me chamo Lucas de Souza, sou natural do Rio de Janeiro e estudante de 4º perío
 
 ## 🤖 Linguagens e tecnologias
 
+
+<img
+    align="left" 
+    alt="NODE"
+    title="NODE" 
+    width="40px" 
+    style="padding-right: 10px;"  
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+ <img
+    align="left" 
+    alt="NEST"
+    title="NEST" 
+    width="40px" 
+    style="padding-right: 10px;"  
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+ 
  <img
     align="left" 
     alt="JAVA"
@@ -104,6 +121,15 @@ Me chamo Lucas de Souza, sou natural do Rio de Janeiro e estudante de 4º perío
     width="40px" 
     style="padding-right: 10px;"  
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+ 
+ <img
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="40px" 
+    style="padding-right: 10px;"  
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
   <img
     align="left" 
