@@ -47,15 +47,6 @@ Me chamo Lucas de Souza, sou natural do Rio de Janeiro e estudante de 4º perío
 
 ## 🤖 Linguagens e tecnologias
 
-
-<img
-    align="left" 
-    alt="NODE"
-    title="NODE" 
-    width="40px" 
-    style="padding-right: 10px;"  
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
  <img
     align="left" 
     alt="NEST"
